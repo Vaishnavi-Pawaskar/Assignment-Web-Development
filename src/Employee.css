@@ -1,0 +1,13 @@
+table,thead,tr,th,td{
+    border: 2px solid black;
+    height: 60px;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    margin: 50px auto;
+    
+}
+
+h2{
+    text-align: center;
+}

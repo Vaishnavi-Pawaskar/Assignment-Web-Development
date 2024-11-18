@@ -1,0 +1,41 @@
+ .container{
+   
+    height: 800px;
+   
+}
+
+.info{
+    
+    height: 100vh;
+    width: 600px;
+    padding-top: 50px;
+    border-radius: 20px;
+    margin: 50px auto;
+    background-color: rgb(166, 226, 238);
+}
+
+.title1{
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+.in1{
+    width: 270px;
+    margin-left: 10px;
+}
+
+.btn2{
+    margin-left: 200px;
+    margin-top: 20px;
+    height: 50px;
+    width: 150px;
+    border: none;
+    background-color:yellow;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+  margin-left: 70px;
+  }
+
